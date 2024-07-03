@@ -1,0 +1,13 @@
+.rounded{
+    width :3400;
+    height :280; 
+    border-radius: 0.5em 0.5em 0px 0px;
+}
+.social_media{
+    background-color: #1B1A1A;
+    border-radius: 0 0 0.5em 0.5em;
+    width: 340;
+    height: 5%;
+    align-items: center;
+   
+}
